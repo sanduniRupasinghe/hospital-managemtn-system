@@ -2,13 +2,13 @@ Please go under edit and edit this file as needed for your project
 
 # Project Name - 
 # Batch - 
-### Group Leader - IT20212232 - Mr. Asiri Gamage (IT20212232)
-### Member 2 - 
-### Member 3 - 
-### Member 4 - IT20264598 - Mr. Lakmal E.L.P.H
-### Member 5 - 
-### Member 6 - IT20242190 - Miss P.P.Weerasingha
-### Member 7 - IT20277222 - Miss. Rupasinge M.R.S.N.
+### Group Leader - IT20088378 - Mr. Sooryasena R.S.A. (1a11a)
+### Member 2 - IT20139612 - Mr. Samaranayake S.
+### Member 3 - IT20264598 - Mr. Lakmal E.L.P.H
+### Member 4 - IT20242190 - Miss. P.P.Weerasingha 
+### Member 5 - IT20277222 - Miss. Rupasinge M.R.S.N.
+### Member 6 - IT20223908 - Miss. U.G.I.P.Ariyarathna
+### Member 7 - IT20047160 - Miss. G.D.T.Piyumika
 ### Member 8 - 
 
 #### Brief Description of Project - 
