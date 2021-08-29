@@ -7,7 +7,7 @@ Please go under edit and edit this file as needed for your project
 ### Member 3 - IT20264598 - Mr. Lakmal E.L.P.H (lakmalpoornima)
 ### Member 4 - IT20242190 - Miss. P.P.Weerasingha (prabhaviweerasinghe)
 ### Member 5 - IT20277222 - Miss. Rupasinghe M.R.S.N. (sanduniRupasinghe)
-### Member 6 - IT20223908 - Miss. U.G.I.P.Ariyarathna
+### Member 6 - IT20223908 - Miss. U.G.I.P.Ariyarathne (Ishiwarani)
 ### Member 7 - IT20047160 - Miss. G.D.T.Piyumika
 ### Member 8 - 
 
