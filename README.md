@@ -8,8 +8,8 @@ Please go under edit and edit this file as needed for your project
 ### Member 4 - IT20264598 - Mr. Lakmal E.L.P.H
 ### Member 5 - 
 ### Member 6 - IT20242190 - Miss P.P.Weerasingha
-### Member 7 - 
-### Member 8 - IT20277222 - Miss. Rupasinge M.R.S.N.
+### Member 7 - IT20277222 - Miss. Rupasinge M.R.S.N.
+### Member 8 - 
 
 #### Brief Description of Project - 
 #### Technologies used - 
