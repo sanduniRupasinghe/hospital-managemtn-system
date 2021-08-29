@@ -3,7 +3,7 @@ Please go under edit and edit this file as needed for your project
 # Project Name - 
 # Batch - 
 ### Group Leader - IT20088378 - Mr. Sooryasena R.S.A. (1a11a)
-### Member 2 - IT20139612 - Mr. Samaranayake S.
+### Member 2 - IT20139612 - Mr. Samaranayake S. (SubhashanaSS)
 ### Member 3 - IT20264598 - Mr. Lakmal E.L.P.H
 ### Member 4 - IT20242190 - Miss. P.P.Weerasingha 
 ### Member 5 - IT20277222 - Miss. Rupasinge M.R.S.N.
